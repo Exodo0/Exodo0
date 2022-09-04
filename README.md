@@ -1,16 +1,24 @@
-### Hi there 👋
+```zsh
+> ruby in ~ λ neofetch
+```
 
-<!--
-**Exodo0/Exodo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://gitlab.com/Exodo0">
+    <img align="left" src="https://avatars.githubusercontent.com/u/78354242?v=4" alt="pfp" width="260" height="260" id="pfp">
+</a>
 
-Here are some ideas to get you started:
+```csharp
+Abstractz @ github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.9.1
+Shell: zsh
+Terminal: kitty
+WM: BSPWM
+@@ -19,7 +19,7 @@ Location: SR, DE
+Languages: JavaScript, HTML, CSS, Java, PHP
+Frameworks: NodeJS, Vue, NextJS, Svelte
+Learning: Rust, Go, Elixir
+Discord: Abstractz#0001
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">

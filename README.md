@@ -3,7 +3,7 @@
 ```
 
 <a href="https://gitlab.com/Exodo0">
-    <img align="left" src="https://avatars.githubusercontent.com/u/78354242?v=4" alt="pfp" width="260" height="260" id="pfp">
+    <img align="left" src="[https://avatars.githubusercontent.com/u/78354242?v=4](https://th.bing.com/th/id/OIP.hgNm7QzZohv3SQbKFgZHPwHaEc?pid=ImgDet&rs=1)" alt="pfp" width="260" height="260" id="pfp">
 </a>
 
 ```csharp

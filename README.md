@@ -1,33 +1,38 @@
-<h2 align="left">Hi 👋! My name is Abstractz and I'm a bot developer on Discord.</h2>
+<h2 align="center"> 👨‍💻 Who am i?</h2>
+<p align="center">
+  <samp>
+    I am a developer that works in Javascript, html, css, python, and many more! I make open-source websites and templates for the general public to use and enjoy.
+    All my templates are original and not copied from anywhere!
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Exodo0" alt="https://github.com/Exodo0" />
+</p>
 
----
+<hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exodo0&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exodo0&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph"/>
-</div>
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+   <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+</p>
 
----
+<hr>
 
-<img align="right" height="170" src="https://cutewallpaper.org/21/anime-night-sky-gif/Night-Gif-Anime.gif" />
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://instagram.com/Exodo0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/Exodo0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Exodo0@gmail.com?subject=Hello%20Lunar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <br>
-</div>
+<hr>
 
-
-<div align="left">
-  <a href="https://www.instagram.com/0adexus0/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"/></a>
-  <a href="https://www.twitch.tv/0Abstractz"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo"/></a>
-  <a href="https://discord.gg/FjKuZX7VzC"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"/></a>
-</div>
-
----
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<h2 align="center">🤔 More Info</h2>
+<p align=center >
+  <a href=https://github.com/anuraghazra/github-readme-stats >
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=Exodo0&bg_color=1e2124&text_color=8291ff&title_color=8291ff&icon_color=8291ff&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+</p>

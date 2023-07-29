@@ -2,7 +2,6 @@
 <p align="center">
   <samp>
     I am a developer that works in Javascript, html, css, python, and many more! I make open-source websites and templates for the general public to use and enjoy.
-    All my templates are original and not copied from anywhere!
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Exodo0" alt="https://github.com/Exodo0" />
@@ -21,12 +20,6 @@
 
 <hr>
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://instagram.com/Exodo0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/Exodo0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Exodo0@gmail.com?subject=Hello%20Lunar,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 <hr>
 

@@ -23,12 +23,6 @@
     <img width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=Exodo0&bg_color=1e2124&text_color=8291ff&title_color=8291ff&icon_color=8291ff&show_icons=true&border_color=aaa&border_radius=24" alt="Exodo0's GitHub Stats" />
   </a>
 </p>
-<hr>
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Exodo0&bg_color=1e2124&color=8291ff&line=8291ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-<hr>
 <h2 align="center">📞 Contact Me</h2>
 <p align="center">
   <a href="https://discord.com/users/egologic">
